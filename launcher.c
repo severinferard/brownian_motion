@@ -33,7 +33,7 @@ printf("la = %s\n",cwd);
    strcat(prog,cwd2);
    strcat(prog,"/");
     printf("prog=%s\n",prog);
-   strcat(prog,"ball_tracker.py");
+   strcat(prog,"main.py");
    printf("prog=%s\n",prog);
     int status = system(prog);
 
