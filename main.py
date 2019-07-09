@@ -5,7 +5,7 @@ try:
     from tkinter import filedialog
     from tkinter import messagebox
     import os
-    from ball_tracker_core import run, Dist_between_two_points, write_to_csv_file
+    from ball_tracker import run, Dist_between_two_points, write_to_csv_file
     from plotter import Dataset
     import collections
     from writter import *
