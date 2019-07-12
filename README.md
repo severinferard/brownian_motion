@@ -44,7 +44,7 @@ To save the image file, go to File > Save as and select a directory.
 
 Close the tracking window and go to the Data menu. Select the dataset you want to work with. Each dataset correspond to one of the particles tracked and follow the same order as when the were selected. Then select a function. Many buit-in functions are available. You can check what the exacly does in the ```plotter.py``` file.
 You can create different graphs at the same time with different dataset or function for comparaisons purposes.
-
+<img width="1440" alt="Screenshot 2019-07-12 at 22 34 35" src="https://user-images.githubusercontent.com/51379148/61157666-17854c80-a4f7-11e9-9fba-b58f3f48779f.png">
 <img width="1439" alt="Screenshot 2019-07-12 at 22 41 24" src="https://user-images.githubusercontent.com/51379148/61157396-536be200-a4f6-11e9-8f21-eb4e264f2496.png">
 Save each graph individualy by clicking the save button underneath it.
 
